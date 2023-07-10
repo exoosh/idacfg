@@ -2,3 +2,6 @@ proccache.lst
 proccache64.lst
 trusted_i64_list.bin
 trusted_idb_list.bin
+pe_tree.ini
+*.txt
+plugins/
